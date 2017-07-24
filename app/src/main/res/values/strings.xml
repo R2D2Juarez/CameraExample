@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cameraExample</string>
+    <string name="lbl_btn_open_camera">Open camera</string>
+    <string name="lbl_btn_details">Details</string>
+</resources>
